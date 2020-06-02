@@ -35,4 +35,3 @@ jobs:
 =======
     - name: deploying surge
       run: surge ./ Bootcamp2020Pro.surge.sh --token ${{ secrets.CODE }}
->>>>>>> 1fd40408c968f2851d30388b6e5b8946495ef59f
